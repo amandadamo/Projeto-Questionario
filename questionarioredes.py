@@ -47,4 +47,9 @@ if resposta == 'c' :
 if resposta == 'd' :
     print('resposta certa')
 
+    print('Quais os tipos de Gateway')
+    print('a)Gateway Unidirecional e Bidirecional')
+    print('b)Gateway Multidirecional e Unidirecional')
+    print('c)Gateway de Armazenamento e Frete')
+
     
